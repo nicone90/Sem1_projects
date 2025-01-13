@@ -1,2 +1,2 @@
 # Sem1_projects
-Projects that I have made during my semester 1.
+Semester 1 python porfolio.
