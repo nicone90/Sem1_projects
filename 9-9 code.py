@@ -1,4 +1,4 @@
-#Nicolas A. Ayala-Alonso
+#Nicolas A.
 #9/9
 
 #init
