@@ -1,7 +1,7 @@
 #clickbait headline generator
 #variable
 #firstName= "Nicolas"
-#lastName="Ayala"
+#lastName="jimbob"
 #print(firstName +" " + lastName)
 #age = 16
 #print("I am" +str(age)+ "years old")
@@ -29,4 +29,3 @@ def headline3():
 
 #main
 
-headline3()
